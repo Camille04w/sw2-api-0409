@@ -4,4 +4,4 @@
 GET {{url}}/frutas
 
 ###
-GET {{url}}/frutas/1
+GET {{url}}/frutas/2
